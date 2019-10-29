@@ -1,0 +1,94 @@
+   table, td, th { 
+      padding: 10px; 
+      border: 2px solid #1c87c9;
+      border-radius: 5px;
+      background-color: #e5e5e5;
+      text-align: center;
+   }
+body {
+
+  background-image: linear-gradient(to bottom right, #451804, #fda600);
+
+  height: 100%;
+
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: #dc143c;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+section {
+
+    background-color: #f0e7e7;
+
+    padding: 20px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+section, img {
+
+    border-radius: 2px;
+	padding: 5px;
+	width: 150px;
+
+}
+
+
+
+#footer a:link, #footer a:visited {
+
+    color: #dc143c;
+
+}
+
+
+
+#footer a:hover {
+
+    text-decoration: line-through;
+
+}
+
+
+
+#scraper {
+
+    background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwirpav0ksDlAhXDJt8KHa1tA94QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.express.co.uk%2Fnews%2Fscience%2F1050667%2Fmars-landing-today-nasa-insight-live-stream-nasa-insight-landing&psig=AOvVaw2YjRATBK2FNaG7tSuETqHg&ust=1572393101528866") !important;
+
+    color: #fff;
+
+}
+
+
+
+#footer {
+
+    position: fixed;
+
+    left: 0;
+
+    bottom: 0;
+
+    width: 100%;
+
+    padding-top: 20px;
+
+    background-color: #000;
+
+    color: white;
+
+    text-align: center;
+
+}
